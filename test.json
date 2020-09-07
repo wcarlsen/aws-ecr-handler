@@ -1,0 +1,17 @@
+{
+  "id": "123",
+  "correlationId": "123",
+  "type": "aws_ecr_added",
+  "schemaVersion": "v1",
+  "x-creationTime": "2020-06-25",
+  "x-payload-schema": "json",
+  "payload": {
+    "name": "test-ecr",
+    "kind": "ecr",
+    "apiVersion": "v1",
+    "properties": {
+      "repoName": "test-ecr",
+      "accountId": "537879847197"
+    }
+  }
+}
